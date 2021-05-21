@@ -1,2 +1,3 @@
 # spotify-pipleine-redshift
-ETL of music data via Spotify's streaming API 🎹
+ETL using AWS and Luigi on Spotify's music streaming APIs
+
