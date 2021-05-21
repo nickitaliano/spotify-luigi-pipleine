@@ -1,2 +1,2 @@
-# spotify-luigi-pipleine
-An AWS data pipeline that ETLs Spotify's music streaming data API🎸🎺
+# spotify-luigi-aws-pipleine
+ETL of music data via Spotify's streaming API🎺
