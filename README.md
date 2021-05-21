@@ -1,2 +1,2 @@
-# spotify-luigi-aws-pipleine
-ETL of music data via Spotify's streaming API🎺
+# spotify-pipleine-redshift
+ETL of music data via Spotify's streaming API 🎺
